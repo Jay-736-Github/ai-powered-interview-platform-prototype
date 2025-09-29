@@ -14,8 +14,8 @@ This project is a comprehensive, AI-driven web application designed to automate 
 - AI Integration Deep Dive
 
 ## Live Demo & Video 🎥
-- **Live Application:** [Link to your live demo on Vercel/Netlify]  
-- **Video Walkthrough:** [Link to your 2-5 minute demo video]
+- **Live Application:** [ai-powered-interview-platform-proto.vercel.app](https://ai-powered-interview-platform-proto.vercel.app/) 
+- **Video Walkthrough:** [Link to demo video](https://drive.google.com/file/d/15r9WkRhMujn5lnOda_WFfz6EAk_kb97g/view?usp=sharing)
 
 ## Core Features 🎯
 This application is split into two primary user-facing sections, each with a rich set of features.
